@@ -19,7 +19,7 @@ from sklearn.metrics import confusion_matrix
 from mpl_toolkits.axes_grid1 import make_axes_locatable
 from tqdm import tqdm
 
-data_path = r'C:\Users\main\Desktop\ML\AnimalFace\Image'
+data_path = r'C:\\Users\main\Proton Drive\laurin.koller\My files\ML\Animal-classification'
 
 # %%
 
